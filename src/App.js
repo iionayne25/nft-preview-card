@@ -3,6 +3,7 @@ import "./App.css";
 function App() {
   return (
     <main className="App">
+      <div className="ShadowCard"></div>
       <div className="CardContainer">
         <img
           src="/images/image-equilibrium.jpg"
