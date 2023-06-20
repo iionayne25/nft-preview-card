@@ -11,32 +11,24 @@
 
 ### Screenshot
 
-![desktop](/public/screenshots/desktop.jpg)
-![destop-empty-input](/public/screenshots/desktop-emptyInput.jpg)
-![desktop-invalid-DMY](/public/screenshots/desktop-invalidDMY.jpg)
-![desktop-invalid-date](/public/screenshots/desktop-invalidDate.jpg)
+![desktop](/public/screenshots/nft-preview-card-desktop.jpg)
 
-![mobile](/public/screenshots/mobile.jpg)
-![mobile-empty-input](/public/screenshots/mobile-emptyInput.jpg)
-![mobile-invalid-DMY](/public/screenshots/mobile-invalidDMY.jpg)
-![mobile-invalid-date](/public/screenshots/mobile-invalidDate.jpg)
+![mobile](/public/screenshots/nft-preview-card-mobile.jpg)
 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/iionayne25/age-calculator-app)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/iionayne25/nft-preview-card)
+- Live Site URL: [Vercel](https://nft-preview-card-by-pavinee.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
+- CSS
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 ## Author
 
