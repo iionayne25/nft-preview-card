@@ -61,8 +61,8 @@ p {
   justify-content: center;
   items-align: center;
   place-self: center;
-  width: 300px;
-  height: 300px;
+  width: 289px;
+  height: 289px;
   position: absolute;
   top: 0px;
   margin: 20px;
@@ -207,6 +207,12 @@ p {
     box-sizing: content-box;
     width: 300px !important;
     height: fit-content;
+  }
+  .HiddenHoverImage {
+    
+    width: 300px;
+    height: 300px;
+ 
   }
   .DetailsContainer {
     display: flex;
