@@ -168,7 +168,7 @@ p {
   opacity: 1;
 }
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 1024px) {
   .App {
     display: flex;
     flex: 1 1 auto;
