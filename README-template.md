@@ -27,6 +27,7 @@
 
 - Flexbox
 - Mobile-first workflow
+- HTML
 - CSS
 - [React](https://reactjs.org/) - JS library
 
