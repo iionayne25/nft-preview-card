@@ -5,11 +5,18 @@ function App() {
     <main className="App">
       <div className="ShadowCard"></div>
       <div className="CardContainer">
+        <div className="ImageContainer">
         <img
           src="/images/image-equilibrium.jpg"
           alt="equilibrium "
           className="Image"
         />
+        <div className="HiddenHoverImage">
+         <img
+         src="/images/icon-view.svg" alt="view icon"/>
+        </div>
+        </div>
+        
         <div className="DetailsContainer">
           <div className="Description">
             <h3>Equilibrium #3429</h3>
